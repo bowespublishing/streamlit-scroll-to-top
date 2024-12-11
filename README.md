@@ -3,6 +3,8 @@ Streamlit component which provides a hacky workaround to utilise streamlit butto
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://scroll-to-top-demo.streamlit.app/)
 
+![](./img/demo.gif)
+
 ## Features
 
 - Scroll to the top of a page (or any point) easily using existing Streamlit buttons.
