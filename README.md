@@ -3,6 +3,16 @@ Streamlit component which provides a hacky workaround to utilise streamlit butto
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://scroll-to-top-demo.streamlit.app/)
 
+## Features
+
+- Scroll to the top of a page (or any point) easily using existing Streamlit buttons.
+
+## Installation
+
+```shell script
+pip install streamlit-scroll-to-top
+```
+
 ## Example Usage
 
 Copy this code snippet:
