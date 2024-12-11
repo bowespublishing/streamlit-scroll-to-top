@@ -7,6 +7,12 @@ Streamlit component which provides a hacky workaround to utilise streamlit butto
 
 ![](./img/demo.gif)
 
+## How does it work?
+
+The component works by creaing an invisible iframe in the location you want to scroll to and then tells the parent window to move the focus to that iframe. See the Example usage further below to get a further idea of how it works/how to implement it in your code. There are other ways to do this however I wanted a way I could easily use streamlit buttons & the session state to move the user to different locations.
+
+This may stop working at any moment or indeed may not work on some browsers. I've tested on Edge, Chrome, Firefox & Opera and all appears to be OK
+
 ## Features
 
 - Scroll to the top of a page (or any point) easily using existing Streamlit buttons.
