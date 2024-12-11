@@ -3,6 +3,8 @@ Streamlit component which provides a hacky workaround to utilise streamlit butto
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://scroll-to-top-demo.streamlit.app/)
 
+<a href="https://buymeacoffee.com/bowespublishing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180"></a>
+
 ![](./img/demo.gif)
 
 ## Features
