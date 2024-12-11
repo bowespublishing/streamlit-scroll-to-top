@@ -1,2 +1,4 @@
 # streamlit-scroll-to-top
-Wish there was an easy to scroll to the top of your streamlit page or a certain point on your page? Well now you can...
+Streamlit component which provides a hacky workaround to utilise streamlit buttons, iframes and state management to redirect users to different points on a page.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/andfanilo/streamlit-drawable-canvas-demo/master/app.py)
