@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+streamlit_scroll_to_top/__init__.py
+streamlit_scroll_to_top.egg-info/PKG-INFO
+streamlit_scroll_to_top.egg-info/SOURCES.txt
+streamlit_scroll_to_top.egg-info/dependency_links.txt
+streamlit_scroll_to_top.egg-info/requires.txt
+streamlit_scroll_to_top.egg-info/top_level.txt
