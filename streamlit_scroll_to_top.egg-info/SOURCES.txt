@@ -1,4 +1,5 @@
 LICENSE
+MANIFEST.in
 README.md
 setup.py
 streamlit_scroll_to_top/__init__.py
@@ -7,3 +8,9 @@ streamlit_scroll_to_top.egg-info/SOURCES.txt
 streamlit_scroll_to_top.egg-info/dependency_links.txt
 streamlit_scroll_to_top.egg-info/requires.txt
 streamlit_scroll_to_top.egg-info/top_level.txt
+streamlit_scroll_to_top/frontend/build/asset-manifest.json
+streamlit_scroll_to_top/frontend/build/bootstrap.min.css
+streamlit_scroll_to_top/frontend/build/index.html
+streamlit_scroll_to_top/frontend/build/static/js/main.96bc179f.js
+streamlit_scroll_to_top/frontend/build/static/js/main.96bc179f.js.LICENSE.txt
+streamlit_scroll_to_top/frontend/build/static/js/main.96bc179f.js.map

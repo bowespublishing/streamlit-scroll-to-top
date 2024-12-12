@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: streamlit-scroll-to-top
-Version: 0.0.1
+Version: 0.0.4
 Summary: A Streamlit custom component to allow one click scrolling to different locations on your page
 Home-page: https://github.com/bowespublishing/streamlit-scroll-to-top
 Author: Bowes Publishing
@@ -41,7 +41,7 @@ Copy this code snippet:
 
 ```python
 import streamlit as st
-from scroll_component import scroll_to_here
+from streamlit_scroll_to_top import scroll_to_here
 
 # Step 1: Initialize scroll state in session_state
 if 'scroll_to_top' not in st.session_state:

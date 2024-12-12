@@ -1,9 +1,8 @@
 {
-  "name": "pdf_gen",
+  "name": "streamlit_scroll_to_top",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jszip": "^3.10.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "streamlit-component-lib": "^2.0.0"

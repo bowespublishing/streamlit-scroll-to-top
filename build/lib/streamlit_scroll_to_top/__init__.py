@@ -7,13 +7,13 @@ _RELEASE = True
 
 if not _RELEASE:
     _component_func = components.declare_component(
-        "scroll_to_here_component",
+        "streamlit_scroll_to_top",
         url="http://localhost:3001",  # Replace with your local dev server URL
     )
 else:
     parent_dir = os.path.dirname(os.path.abspath(__file__))
     build_dir = os.path.join(parent_dir, "frontend/build")
-    _component_func = components.declare_component("scroll_to_here_component", path=build_dir)
+    _component_func = components.declare_component("streamlit_scroll_to_top", path=build_dir)
 
 
 def scroll_to_here(delay: int = 2000, key: str = None) -> None:

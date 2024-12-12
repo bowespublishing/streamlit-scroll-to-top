@@ -15,7 +15,7 @@ def readme() -> str:
 
 setuptools.setup(
     name="streamlit-scroll-to-top",
-    version="0.0.1",
+    version="0.0.4",
     author="Bowes Publishing",
     author_email="bowespublishing@gmail.com",
     description="A Streamlit custom component to allow one click scrolling to different locations on your page",
