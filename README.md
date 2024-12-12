@@ -3,6 +3,9 @@ Streamlit component which provides a hacky workaround to utilise streamlit butto
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://scroll-to-top-demo.streamlit.app/)
 
+[![PyPI](https://img.shields.io/pypi/v/streamlit-scroll-to-top)](https://pypi.org/project/streamlit-scroll-to-top/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/streamlit-scroll-to-top)](https://pypi.org/project/streamlit-scroll-to-top/)
+
 <a href="https://buymeacoffee.com/bowespublishing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180"></a>
 
 ![](./img/demo.gif)
