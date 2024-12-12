@@ -40,7 +40,7 @@ if 'scroll_to_header' not in st.session_state:
 
 # Step 2: Handle the scroll-to-top action
 if st.session_state.scroll_to_top:
-    scroll_to_here(0, key='top')  # Scroll to the top of the page
+    scroll_to_here(0, key='top')  # Scroll to the top of the page, 0 means instantly, but you can add a delay (im milliseconds)
     st.session_state.scroll_to_top = False  # Reset the state after scrolling
 
 # Step 3: Define a scroll function to trigger the state change
@@ -56,7 +56,7 @@ st.write("Scroll down to see the 'Scroll to Top' button.")
 for i in range(50):  # Generate dummy content
     if i == 25:
         if st.session_state.scroll_to_header:
-            scroll_to_here(0, key='header')  # Scroll to the top of the page
+            scroll_to_here(0, key='header')  # Scroll to the top of the page, 0 means instantly, but you can add a delay (im milliseconds)
             st.session_state.scroll_to_header = False  # Reset the state after scrolling
         st.header("Or scroll here")
     st.text(f"Line {i + 1}: This is some dummy content.")
