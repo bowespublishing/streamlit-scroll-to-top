@@ -29,7 +29,7 @@ Copy this code snippet:
 
 ```python
 import streamlit as st
-from scroll_component import scroll_to_here
+from streamlit_scroll_to_top import scroll_to_here
 
 # Step 1: Initialize scroll state in session_state
 if 'scroll_to_top' not in st.session_state:
